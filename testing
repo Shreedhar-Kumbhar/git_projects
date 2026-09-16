@@ -1,6 +1,6 @@
 #include<stdio.h>
 
 int main() {
-    std::printf("VCS");
+    std::printf("first commit");
     return 0;
 }
