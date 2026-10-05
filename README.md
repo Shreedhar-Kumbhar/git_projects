@@ -1,2 +1,2 @@
-# git_projects
-Git Projects
+# git_basics
+Learning github basics
